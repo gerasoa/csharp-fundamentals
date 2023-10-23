@@ -5,9 +5,9 @@
 
 ## Contents 
 
-- Commands **[`dotnet new --list`](#Commands)**__,__**[`dotnet new console -n MyProject -f net6.0`](#Commands)**
+- Commands: **[`dotnet new --list`](#Commands)**__,__**[`dotnet new console -n MyProject -f net6.0`](#Commands)**__,__**[`dotnet sln Curso.sln add ProjetoAulas`](#Commands)**__,__**[`dotnet build`](#Commands)**__,__**[`dotnet clean`](#Commands)**__,__**[`dotnet run --project MyProject`](#Commands)**__,__**[`C:\MyProject> dotnet run`](#Commands)**__,__
 
-- Types **[`Int`](#Int)**__,__ 
+- Types:  **[`byte`](#Commands)**__,__**[`short`](#Commands)**__,__**[`int`](#int)**__,__**[`long`](#Commands)**__,__**[`float`](#Commands)**__,__**[`double`](#Commands)**__,__**[`decimal`](#Commands)**__,__**[`bool`](#Commands)**__,__**[`char`](#Commands)**__,__**[`string`](#Commands)**__.__
 - Syntax 
 - Linq
 
