@@ -26,10 +26,31 @@
                1 File(s)            441 bytes
                2 Dir(s)  48,576,237,568 bytes free
 ```
+Create a new Console aplication
+```prompt
+C:\git\CSharp>dotnet new console -n MainProject -f net6.0
+```
 
+Add the project in the solution
+```prompt
+C:\git\CSharp> dotnet sln MySolution.sln add MainProject
+```
 
-
-
+Build the project
+```prompt
+C:\git\CSharp> dotnet build
+```
+Clean the objects of build
+```prompt
+C:\git\CSharp> dotnet clean
+```
+Execute
+```prompt
+C:\Users\geras\OneDrive\Documentos\temp\git\CSharp> dotnet run --project  MainProject
+```
+```prompt
+C:\Users\geras\OneDrive\Documentos\temp\git\CSharp\MainProject> dotnet run
+```
 
 ## String
 
